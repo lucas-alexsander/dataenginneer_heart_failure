@@ -1,6 +1,7 @@
 # dataenginneer_heart_failure
-Estudo de caso Análise exploratória - Heart Failure
+Estudo de caso Análise Exploratória - Insuficiência Cardíaca
 
+Efetuado usando a linguagem Python + Bibliotecas Pandas / Matplotlib / plotly
 
 ![Screenshot 1](images/newplot3.png)
 
